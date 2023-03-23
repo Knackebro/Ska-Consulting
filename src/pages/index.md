@@ -46,19 +46,22 @@ intro:
     can help you automate CI/CD and development processes as well as build top
     of the line integrations in the cloud.
 main:
-  heading: Great coffee with no compromises
+  heading: Automating your information provisioning infrastructure
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Using the latest tools we can help you automate your systems spanning
+    integration workflows and streamline your cloud infrastructure deployments.
+    With experience in automating and standardising integration development and
+    patterns for a wide selection of businesses, SKA Consulting can help you
+    automate CI/CD and development processes as well as build top of the line
+    integrations in the cloud.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Enable the full potential of your business with systems integration
+      solutions
+    image: /img/dark_computer_integration.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Use multiple cloud technologies to your advantage
+    image: /img/dark_logos_tech.jpeg
   image3:
-    alt: Coffee beans
+    alt: I like coffee
     image: /img/products-grid1.jpg
 ---
