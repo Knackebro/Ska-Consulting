@@ -43,5 +43,10 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Contact
   description: Contact me please!
-  plans: []
+  plans:
+    - plan: Free advice
+      price: "0"
+      description: Get some free integration architecture advice
+      items:
+        - None
 ---
