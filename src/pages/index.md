@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Automate your business
-image: /img/abstract_background_color.jpeg
+image: /img/abstract_background_dark.jpeg
 heading: Automate your business
 subheading: Enable company wide integration, easily
 mainpitch:
