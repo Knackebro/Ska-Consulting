@@ -23,18 +23,18 @@ description: Using the latest tools we can help you automate your systems
   the line integrations in the cloud.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/abstract_background_cogs.jpeg
       text: >
         Leverage the cloud to the fullest extent by automating your build and
         deploy processes.
-    - image: /img/coffee-gear.png
+    - image: /img/abstract_background.jpeg
       text: >
         Create integrations from best-practice template solutions and get
         integrated in no time.
-    - image: /img/tutorials.png
+    - image: /img/abstract_background.jpeg
       text: Get architectural advice and upgrade your cloud integration infrastructure
         to the next level.
-    - image: /img/meeting-space.png
+    - image: /img/abstract_background_cogs.jpeg
       text: >
         Great integrations are not only fast, scalable and cheap. They are also
         secure. Get advice on securing your integration infrastructure.
