@@ -29,13 +29,13 @@ main:
     integrations in the cloud.
   image1:
     alt: Scale your integration architecture with best practice architectures
-    image: /img/dark_cloud_infrastructure.jpeg
+    image: /img/abstract_background.jpeg
   image2:
     alt: Enable sharing of information across systems
-    image: /img/dark_logos_tech.jpeg
+    image: /img/abstract_background_cogs.jpeg
   image3:
     alt: I like coffee
-    image: /img/products-grid1.jpg
+    image: /img/cloud_leverage_infrastructure.jpeg
 testimonials:
   - quote: Thx for the great integrations!
     author: Someone, probably
