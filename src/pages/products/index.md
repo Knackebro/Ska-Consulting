@@ -19,7 +19,7 @@ intro:
   heading: What we offer
   description: "\n"
 main:
-  heading: Great coffee with no compromises
+  heading: Automating your information provisioning infrastructure
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
