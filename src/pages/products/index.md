@@ -9,7 +9,7 @@ description: Automate your information provisioning architecture with custom
   than days.
 intro:
   blurbs:
-    - image: /img/vaporwave_cloud_infrastructure.jpeg
+    - image: /img/cloud_leverage_infrastructure.jpeg
       text: >
         By using the latest technologies offered in the cloud we can find an
         integration solution that fits your needs.
@@ -34,8 +34,8 @@ main:
     alt: Enable sharing of information across systems
     image: /img/abstract_background_cogs.jpeg
   image3:
-    alt: I like coffee
-    image: /img/cloud_leverage_infrastructure.jpeg
+    alt: Leverage the cloud
+    image: /img/vaporwave_cloud_infrastructure.jpeg
 testimonials:
   - quote: Thx for the great integrations!
     author: Someone, probably
