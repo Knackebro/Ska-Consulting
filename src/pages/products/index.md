@@ -36,10 +36,12 @@ main:
   image3:
     alt: I like coffee
     image: /img/products-grid1.jpg
-testimonials: []
+testimonials:
+  - quote: Thx for the great integrations!
+    author: Someone, probably
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Contact
-  description: Contact me
+  description: Contact me please!
   plans: []
 ---
